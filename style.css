@@ -1,0 +1,162 @@
+.container{
+    width: 95%;
+    margin: auto;
+}
+header button{
+    box-shadow: 0px 22px 40px 0px #FF683830;
+width: 120px;
+height: 50px;
+background-color: #FF7A50;
+border-radius: 10px;
+border: none;
+color: white;
+}
+
+
+
+header{
+    display: flex;
+    align-items: center;
+}
+header a:hover{
+  color: #FF6838;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header a{
+    text-decoration: none;
+    color: black;
+ 
+}
+.nav a{
+    display: flex;
+    gap: 80px;
+}
+header nav{
+    display: flex ;
+    gap: 70px;
+    align-items: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    font-size: 66px;
+}
+.box div{
+    width: 530px;
+}
+.box p{
+    font-size: 20px;
+}
+span{
+    color: #FF7A50;
+}
+.das{
+    width: 163px;
+ height: 50px;
+ color: white;
+ background-color:#FF7A50 ;
+ box-shadow: 0px 22px 40px 0px #FF683830;
+ border: none;
+ border-radius: 10px;
+margin-top: 30px;
+}
+.box img{
+    display: flex;
+    margin-top: 100px;
+}
+.aom{
+     width: 163px;
+ height: 50px;
+ color: white;
+ background-color:#FF7A50 ;
+ box-shadow: 0px 22px 40px 0px #FF683830;
+ border: none;
+margin-top: 30px;
+ border-radius: 15px;
+ border-bottom-right-radius: 0px;
+}
+
+.h2{
+    font-size: 33px;
+    width: 384px;
+}
+.text{
+    font-size: 33px;
+    width: 700px;
+    display: flex;
+ margin: auto;
+
+}
+.card{
+    width: 361px;
+    height: 417px;
+}
+.wer{
+    width: 79px;
+    height: 33px;
+    color: white;
+ background-color:#FF7A50 ;
+ box-shadow: 0px 22px 40px 0px #FF683830;
+ border: none;
+ 
+ border-radius: 15px;
+ border-bottom-right-radius: 0px;
+ text-align: center;
+ 
+}
+.cards{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.ce{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.de{
+    display: flex;
+    align-items: center;
+}
+
+
+footer{
+ width: 1170px;
+ height: 312px;
+  background-color:#FF7A50 ;
+  border-radius: 20px;
+  margin: auto;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.div{
+    width: 835px;
+    height: 78px;
+    background-color: white;
+    border-radius: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+footer button{
+    width: 191px;
+    height: 58px;
+    background-color: #FF7A50;
+border: none;
+border-radius: 70px;
+}
+footer h1{
+    color: white;
+}
